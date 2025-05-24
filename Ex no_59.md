@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/6b7dbcf3-dd08-4e3c-9233-3f9c274b3210)# EX 59 C functions to perform-enqueue, dequeue, peek, display in Queue using Linked List.(use character data in Queue).
+EX 59 C functions to perform-enqueue, dequeue, peek, display in Queue using Linked List.(use character data in Queue).
 ## DATE:
 ## AIM:
 To write a C functions to perform-enqueue, dequeue, peek, display in Queue using Linked List.
